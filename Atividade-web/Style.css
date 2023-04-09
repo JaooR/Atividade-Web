@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+.faixaazul{
+
+    width: 600px;
+    height: 10px;
+    background-color: #116CC0;
+
+
+
+}
+
+.container{
+
+   
+    box-sizing: border-box;
+    position: absolute;
+    width: 600px;
+    height: 486px;
+    left: 400px;
+    top: 65px;
+
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+
+}
+
+.card h1{
+
+    size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color:#116CC0 ;
+
+}
+
+.descricao1{
+
+    
+    margin-top: 49px;
+    margin-left: 85px;
+    color:#333333 ;
+    size: 18px;
+    width: 450px;
+    line-height: 21.09px;
+    
+    
+    
+}
+
+.descricao2{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-right: 75px;
+    color:#333333 ;
+    size: 18px;
+    line-height: 21.09px;
+
+
+}
+
+.descricao1 spam{
+    color: #116CC0;
+}
+.button{
+
+    width: 234px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 184px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #116CC0;
+    border-radius: 20px;
+   
+
+
+
+}
+.buttontexto{
+
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+    size: 18px;
+    justify-content: center;
+    color: #FFFFFF;
+    
+
+
+}
+
+.descricao3{
+
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    line-height: 21.09px;
+
+}
+.faixacinza{
+
+    width: 430px;
+    height: 1px;
+    margin-left: 80px;
+    margin-top: 25px;
+    background-color: #C4C4C4;    
+    line-height: 21.09px;
+}
+
+.rodape {
+
+    color: #919191;
+    margin: 70px;
+    size: 16px;
+    margin-top: 33px;
+    margin-left: 80px;
+
+}
+
+.rodape spam{
+    color: #707070;
+    size: 16px;
+    
+}
